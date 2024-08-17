@@ -2,7 +2,7 @@
 
 Page 185
 
-*Tempo*: Andante Maestoso\
+*Tempo*: Andante Maestoso/Allegro\
 *Key*: Bb Major\
 *Meter*: 4/4
 
@@ -44,3 +44,44 @@ Following straight from her recitative accompagnato, Fiordiligi dramatically pro
 *And may a barbarous hope*\
 *not make you bold again!*
 
+\
+\
+<ins>*Bar 1:*</ins> 
+
+**I**. Tutti. Triple stops in violins. Forte. Ascending dotted harmony notes played in octaves. 
+
+<ins>*Bar 2:*</ins> 
+
+**V-I**. All playing root of F Major. Winds, brass and bass then withdrawn. Turn figure in violins - piano. Staccato broken chords.
+
+<ins>*Bar 3:*</ins> 
+
+**I**. Large descending leap of a minor sixth for Fiordiligi. Violins trade root and third - D/Bb -> Bb/D.
+
+<ins>*Bar 4:*</ins> 
+
+**VIIb**. Repeated notes for Fiordilgi may symbolise the immovability of a rock. Ascending dotted notes now piano.
+
+<ins>*Bar 5:*</ins> 
+
+**VII**. All playing root of A diminished. Turn from bar 2 returns but on VII.
+
+<ins>*Bar 6:*</ins> 
+
+**VII**. Violins trading root and third once more. Octave leap down for Fiordiligi. Minim on the second beat.
+
+<ins>*Bar 7:*</ins> 
+
+**Ib**. 
+
+<ins>*Bar 8:*</ins> 
+
+**I**. The turn motive, that has been ascending in sequence now comes back to Bb although Mozart interestingly puts an E natural in it.
+
+<ins>*Bar 9:*</ins> 
+
+**-I/V in Eb Major -V7d**. Compound minor 3rd descending leap for Fiordiligi. Staccato in the instrumentation.
+
+<ins>*Bar 10:*</ins> 
+
+**-Ib-VII7dim in F**. Enormous leaps - Compound Major 3rd ascending followed by Compound Major 6th Descending. Punctuated staccato crotchets.
