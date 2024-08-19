@@ -80,8 +80,36 @@ Following straight from her recitative accompagnato, Fiordiligi dramatically pro
 
 <ins>*Bar 9:*</ins> 
 
-**-I/V in Eb Major -V7d**. Compound minor 3rd descending leap for Fiordiligi. Staccato in the instrumentation.
+**I/V in Eb Major -V7d**. Compound minor 3rd descending leap for Fiordiligi. Staccato in the instrumentation.
 
 <ins>*Bar 10:*</ins> 
 
-**-Ib-VII7dim in F**. Enormous leaps - Compound Major 3rd ascending followed by Compound Major 6th Descending. Punctuated staccato crotchets.
+**Ib-VII7dim in F**. Enormous leaps - Compound Major 3rd ascending followed by Compound Major 6th Descending. Punctuated staccato crotchets.
+
+<ins>*Bar 11:*</ins> 
+
+**V7 in Bb Major**. String and bass withdrawn. Oboes, bassoons and clarinets reintroduced. Bassoons in octaves. Piano. Ascending Compound diminished fifth for Fiordiligi.
+
+<ins>*Bar 12:*</ins> 
+
+**I**. Dotted rhythms propel us forward. Rising contour in all parts. Forte/
+
+<ins>*Bar 13:*</ins> 
+
+**I-IV-I-IV-I-IV**. Tutti. I-IV is majestic. First and second violins have syncopated rhythms. Fiordiligi's part is marked as an octave which implies she is to slide from the top to the bottom.
+
+<ins>*Bar 14:*</ins> 
+
+**I**. Fermatas; small embellishment with unaccented passing note in Fiordiligi's part.
+
+<ins>*Bar 15:*</ins> 
+
+**I-IV-V7**. Tempo changes to allegro. Just Fiordiligi, clarinets, oboes and bass. Tonic pedal quavers in bass. Clarinets and oboes both play sixths an octave apart. Piano
+
+<ins>*Bar 16:*</ins> 
+
+**I-V**. Trumpets reintroduced in thirds with the clarinets. Piano
+
+<ins>*Bar 17:*</ins> 
+
+**I-IV-V7**. Tonic pedal quavers reappear in bass. Similar to bar 15 but the trumpets get a single beat and there is rhythmic diminution on the last beat. 
