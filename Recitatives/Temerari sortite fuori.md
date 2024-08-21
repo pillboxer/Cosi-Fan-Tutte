@@ -1,6 +1,6 @@
 # Temerari sortite fuori
 
-Page 185
+Page 183
 
 *Tempo*: Allegro\
 *Key*: C Major\
@@ -83,7 +83,7 @@ despite the world and destiny!*
 
 <ins>*Bar 57:*</ins> 
 
-**II7**. Minims in the instrumentation. Fiordiligi has all harmony notes.
+**II7**. Semibreves in the instrumentation. Fiordiligi has all harmony notes.
 
 <ins>*Bar 58:*</ins> 
 
@@ -107,23 +107,23 @@ despite the world and destiny!*
 
 <ins>*Bar 63:*</ins> 
 
-**V7-I/V in Eb Major**. Instrumentation withdrawn. If following the ossia, the Eb is an appoggiatura.
+**V7-I**. Instrumentation withdrawn. If following the ossia, the Eb is an appoggiatura.
 
 <ins>*Bar 64:*</ins> 
 
-**V7**. Peak. All harmony.
+**I**. Peak. All harmony.
 
 <ins>*Bar 65:*</ins> 
 
-**V**. All harmony.
+**I**. All harmony.
 
 <ins>*Bar 66:*</ins> 
 
-**I-V7d in Bb Major**. Change of key gets us ready for the upcoming aria. Disjunct bar hints at said aria which is full of large leaps. Bb is anticipatory.
+**IV-V7d in Bb Major**. Change of key gets us ready for the upcoming aria. Disjunct bar hints at said aria which is full of large leaps. Bb is anticipatory.
 
 <ins>*Bar 67:*</ins> 
 
-**I-V7 in Bb Major**. Triple and double stops in first and second violins respectively.
+**I-V7r**. Triple and double stops in first and second violins respectively.
 
 \
 \
