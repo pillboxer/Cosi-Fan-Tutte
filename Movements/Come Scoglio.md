@@ -113,3 +113,7 @@ Following straight from her recitative accompagnato, Fiordiligi dramatically pro
 <ins>*Bar 17:*</ins> 
 
 **I-IV-V7**. Tonic pedal quavers reappear in bass. Similar to bar 15 but the trumpets get a single beat and there is rhythmic diminution on the last beat. 
+
+<ins>*Bar 18:*</ins> 
+
+**I-V**. Effectively the same as bar 16
