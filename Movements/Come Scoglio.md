@@ -117,3 +117,25 @@ Following straight from her recitative accompagnato, Fiordiligi dramatically pro
 <ins>*Bar 18:*</ins> 
 
 **I-V**. Effectively the same as bar 16
+
+<ins>*Bar 19:*</ins> 
+
+**I**. Clarinets withdrawn after the first beat. Punctuated quavers in the strings. Upper auxillary, as well as accented and unaccented passing notes in Fiordiligi's part.
+
+<ins>*Bar 20:*</ins> 
+
+**V7**. Tritone in Fiordiligi's part on the word "fede" - faith. Might imply instability of faith.
+
+<ins>*Bar 21:*</ins> 
+
+**I**. Rhythmic diminution of b19 in the first half of this bar and augmentation in the second half. Upper auxillary and accented passing notes in violins and Fiordiligi.
+
+<ins>*Bar 22:*</ins> 
+
+**V-I in F Major**. Imperfect cadence acting as a pivot to F Major. Bassoon and clarinets reintroduced with scalic passages containing accented and non-accented passing notes.
+
+<ins>*Bar 23:*</ins> 
+
+**I**. Bass moves to pizzicato. Accented and un-accented passing notes in winds.
+
+
