@@ -132,10 +132,32 @@ Following straight from her recitative accompagnato, Fiordiligi dramatically pro
 
 <ins>*Bar 22:*</ins> 
 
-**V-I in F Major**. Imperfect cadence acting as a pivot to F Major. Bassoon and clarinets reintroduced with scalic passages containing accented and non-accented passing notes.
+**V-I in F Major**. Imperfect cadence acting as a pivot to F Major. Bassoon and clarinets (primo) reintroduced with scalic passages containing accented and non-accented passing notes.
 
 <ins>*Bar 23:*</ins> 
 
-**I**. Bass moves to pizzicato. Accented and un-accented passing notes in winds.
+**I**. Bass moves to pizzicato. Accented and un-accented passing notes in winds. Dominant pedal point begins in quavers.
 
+<ins>*Bar 24:*</ins> 
 
+**V**. The E natural in the second violin is considered a mistake since it does not match the identical bars 26 and 28. Accented and unaccented passing notes. Staccato notes in the winds as well as acciaccaturas. 
+
+<ins>*Bar 25:*</ins> 
+
+**I**. Identical in instrumentation to 23. Additional passing notes in Fiordiligi's part. 
+
+<ins>*Bar 26:*</ins> 
+
+**V**. Identical in instrumentation to 24. Additional auxillary and passing notes in Fiordiligi's part. 
+
+<ins>*Bar 27:*</ins> 
+
+**I**. Identical in instrumentation to 23 & 25.
+
+<ins>*Bar 28:*</ins> 
+
+**V**. Identical in instrumentation to 24 & 26.
+
+<ins>*Bar 29:*</ins> 
+
+**V**. Identical in instrumentation to 24 & 26.
