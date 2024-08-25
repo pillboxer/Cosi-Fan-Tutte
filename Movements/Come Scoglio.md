@@ -160,4 +160,16 @@ Following straight from her recitative accompagnato, Fiordiligi dramatically pro
 
 <ins>*Bar 29:*</ins> 
 
-**V**. Identical in instrumentation to 24 & 26.
+**I/IV in C Major**. Basses directed to play back with the bow after the pizzicato section. Crescendo second half of the bar. Violas and basses play in quavers. Violins play in semiquavers. Fiordiligi climbs through an F Major chord starting on the third. Oboes and basssons withdrawn after first beat.
+
+<ins>*Bar 30:*</ins> 
+
+**II-VIIb**. Tritone descending leap for Fiordiligi. 
+
+<ins>*Bar 31:*</ins> 
+
+**I-V in F Major**. All built around C Major. Probably a secondary dominant as opposed to a true modulation. Octave leaps. Oboes and bassoons reintroduced. Triplets on the off beat to propel us into the next section after the perfect cadence. The two sets of violins both play triple stops.
+
+<ins>*Bar 32:*</ins> 
+
+**I**. Trumpet reintroduced while the bass is withdrawn until the last beat. Punctuated crotchets coming down the F Major triad in Bassoons and first violins. Second violins and violas play oscillating semiquavers. Triplet figure has moved to the oboes and bass.
