@@ -172,4 +172,27 @@ Following straight from her recitative accompagnato, Fiordiligi dramatically pro
 
 <ins>*Bar 32:*</ins> 
 
-**I**. Trumpet reintroduced while the bass is withdrawn until the last beat. Punctuated crotchets coming down the F Major triad in Bassoons and first violins. Second violins and violas play oscillating semiquavers. Triplet figure has moved to the oboes and bass.
+**I**. Trumpet reintroduced while the bass and oboes are withdrawn until the last beat. Punctuated crotchets coming down the F Major triad in Bassoons and first violins. Second violins and violas play oscillating semiquavers. Triplet figure has moved to the oboes and bass.
+
+<ins>*Bar 33:*</ins> 
+
+**V7**. Punctuated crotchets move to oboe and bass. Double stops in first violins. Oscillating semiquavers have moved from minor thirds to major seconds.
+
+<ins>*Bar 34:*</ins> 
+
+**I**. Brass and winds withdrawn. Punctuated crotchets in first violins, mirrored by Fiordiligi. Triplets in violas and bass. to oboe and bass. Double stops in first violins. Oscillating semiquavers have moved from minor thirds to major seconds.
+
+<ins>*Bar 35:*</ins> 
+
+**V7**. Crotchets move once more; now in the violas and bass. Double stops in the first violins. Minor sixth ascending leap for Fiordiligi.
+
+<ins>*Bar 36:*</ins> 
+
+**I**. Highly melismatic line for Fiordiligi. A bit of non-functional èchappè like movement; descending down a minor second and leaping up a fourth. Before descending down an F Major scale.
+
+<ins>*Bar 37:*</ins> 
+
+**V**. Double stops in the first violins. 
+
+
+
