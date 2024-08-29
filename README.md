@@ -10,7 +10,7 @@ The origin of the story has reportedly many potential sources:
 
 Tirso's El amor media and La celosa de si misma\
 Ariosto's Orlando Furioso\
-Ovid's Metamorphoses \
+Ovid's Metamorphoses
 
 ## ACT 1:
 
