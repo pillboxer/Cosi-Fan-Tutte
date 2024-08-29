@@ -192,7 +192,67 @@ Following straight from her recitative accompagnato, Fiordiligi dramatically pro
 
 <ins>*Bar 37:*</ins> 
 
-**V**. Double stops in the first violins. 
+**V**. Double stops in the first violins. Crotchets in bass and violas.
+
+<ins>*Bar 38:*</ins> 
+
+**I**. Octave ascending leap for Fiordiligi. C#s in second violins make the F Major into an F augmented, however they seem to have more of an appoggiatura role here. 
+
+<ins>*Bar 39:*</ins> 
+
+**IV-Vb in G Minor**. Compound minor third leap from preceding bar. Secondary dominant in G minor.
+
+<ins>*Bar 40:*</ins> 
+
+**II in F Major-V7**. Compound major third leap from preceding bar.
+
+<ins>*Bar 41:*</ins> 
+
+**I-Ib-IV-Vb**. Winds and trumpets reintroduced. Syncopation in the violas. Mixture of legato and staccato in the violins, which are playing identical parts. Move to quavers in the bass
+
+<ins>*Bar 42:*</ins> 
+
+**I**.
+
+<ins>*Bar 43:*</ins> 
+
+**IV**. Compound major third leap for Fiordiligi. Piano. Winds and trumpets withdrawn again.
+
+<ins>*Bar 44:*</ins> 
+
+**IV**. Instrumentation now all moving in quavers, providing forward momentum.
+
+<ins>*Bar 45:*</ins> 
+
+**IV-II7b**. The G on the final quaver of the second violins makes it a II7b since it would be illegal otherwise. Accented passing notes in semiquavers for Fiordiligi.
+
+<ins>*Bar 46:*</ins> 
+
+**Ic-V-VIIc**. Moving to a second inversion arguably at an unusual time may be to preserve scale movement. Written échappè onto the second half of the bar for Fiordiligi, but since the trill will start on the note above the principal note, in practice this is an unaccented passing note. 
+
+<ins>*Bar 47:*</ins> 
+
+**Ib**. Fortepiano in instrumentation provides punctuation and emphasis.
+
+<ins>*Bar 48:*</ins> 
+
+**IV-V7d-V7b in C Major**. Syncopation in strings. Crescendo. Octave leaps in second violins and violas.
+
+<ins>*Bar 49:*</ins> 
+
+**Ic**. Oboes reintroduced - foreshadowing Fiordiligi. All build around the tonic. Piano. Bass withdrawn.
+
+<ins>*Bar 50:*</ins> 
+
+**Ic**. Oboes now sustain a semibreve and Fiordiligi takes the prior Oboe part. The bassoons are reintroduced and support with a descending tonic broken chord.
+
+<ins>*Bar 51:*</ins> 
+
+**Ic**. Ic continues as Fiordiligi descends into the perfect cadence. Bassoons withdrawn.
+
+<ins>*Bar 52:*</ins> 
+
+**V**. 4-3 suspension in Oboes and seocond violins. Bass reintroduced in quavers. Strings play in semiquavers. Crescendo.
 
 
 
