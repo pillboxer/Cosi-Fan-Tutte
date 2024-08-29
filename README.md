@@ -8,9 +8,9 @@ The first performance was held at the Burgtheater on 26 January 1790 and ten per
 
 The origin of the story has reportedly many potential sources: 
 
-Tirso's El amor media and La celosa de si misma
-Ariosto's Orlando Furioso
-Ovid's Metamorphoses 
+Tirso's El amor media and La celosa de si misma\
+Ariosto's Orlando Furioso\
+Ovid's Metamorphoses \
 
 ## ACT 1:
 
