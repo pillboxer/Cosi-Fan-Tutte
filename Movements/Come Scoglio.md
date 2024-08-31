@@ -254,5 +254,30 @@ Following straight from her recitative accompagnato, Fiordiligi dramatically pro
 
 **V**. 4-3 suspension in Oboes and seocond violins. Bass reintroduced in quavers. Strings play in semiquavers. Crescendo.
 
+<ins>*Bar 53:*</ins> 
+
+**I-Ib-IV-Vb**. Similar to bar 41; this time forte starts on the first quavers. Quavers ascend in thirds. Articulation is all legato. The violas leap from A to F as opposed to repeating F on the first quaver. Violas and trumpets are syncopated. Clarinets and oboes are a due throughout the bar unlike 41 and oboes gain an extra note at the beginning of the bar.
+
+<ins>*Bar 54:*</ins> 
+
+**I-V**. All excepting the first violins are descending. Oboes and clarinets play the same material. First violins are syncopated.
+
+<ins>*Bar 55:*</ins> 
+
+**IV-V7d-V7b**. Back to ascending melodic material. Oboes and clarinets continue to mirror each other. Trumpets syncopated.
+
+<ins>*Bar 56:*</ins> 
+
+**IV-V7d-V7b**. See 54.
+
+<ins>*Bar 57:*</ins> 
+
+**I**. Descending demisemiquavers. All instruments involved and in octaves except trumpets which have crotchets.
+
+<ins>*Bar 58:*</ins> 
+
+**VII7 in C Major**. Fiordiligi returns. 
+
+
 
 
