@@ -278,6 +278,33 @@ Following straight from her recitative accompagnato, Fiordiligi dramatically pro
 
 **VII7 in C Major**. Fiordiligi returns. 
 
+<ins>*Bar 59:*</ins> 
+
+**V7**. If following the ossia, there is an appoggiatura in Fiordilgi's part.
+
+<ins>*Bar 60:*</ins> 
+
+**V7**. A capella. Rising dominant broken chord.
+
+<ins>*Bar 60:*</ins> 
+
+**V7**. A capella. Rising dominant broken chord.
+
+<ins>*Bar 61:*</ins> 
+
+**I**. Descending Demisemiquavers take us to Bb Major.
+
+<ins>*Bar 62:*</ins> 
+
+**V7b in Bb Major**. A capella. Unaccented passing notes for Fiordiligi
+
+<ins>*Bar 63:*</ins> 
+
+**V7**. Instrumentation reintroduced. If following the ossia, the Bb is an appoggiatura. Violins play double stops. Semiquaver pick-ups add drama.
+
+<ins>*Bar 64:*</ins> 
+
+**V7**. A capella. Unaccented passing notes
 
 
 
