@@ -306,5 +306,39 @@ Following straight from her recitative accompagnato, Fiordiligi dramatically pro
 
 **V7**. A capella. Unaccented passing notes
 
+<ins>*Bar 65:*</ins> 
+
+**I**. Begins a section without the strings. Basses play piano quavers on the tonic; the trumpets sustain a tied semibreve. 
+
+<ins>*Bar 66:*</ins> 
+
+**I**. Instrumental. Quavers in basses continue. The clarinets and bassoons play sixths an octave apart.
+
+<ins>*Bar 67:*</ins> 
+
+**I-V**. Tie in trumpets ends, as do quavers in basses.
+
+<ins>*Bar 68:*</ins> 
+
+**I-IV-V7**. Quavers in basses resume. Rhythmic diminution of bar 11 in the winds via double lower auxillary notes.
+
+<ins>*Bar 69:*</ins> 
+
+**I-V**.
+
+<ins>*Bar 70:*</ins> 
+
+**I-IV-V7**. Busier for Fiordiligi, who shares a lower auxillary note with the winds.
+
+<ins>*Bar 71:*</ins> 
+
+**I-V**.
+
+<ins>*Bar 72:*</ins> 
+
+**I**. Winds and trumpets withdrawn after first beat. Strings takes their place, playing quaver in piano. Melismatic line for Fiordiligi, with accented and unaccented passing notes. Octave leap in bass.
+
+
+
 
 
