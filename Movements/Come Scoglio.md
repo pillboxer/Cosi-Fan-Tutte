@@ -92,7 +92,7 @@ Following straight from her recitative accompagnato, Fiordiligi dramatically pro
 
 <ins>*Bar 12:*</ins> 
 
-**I**. Dotted rhythms propel us forward. Rising contour in all parts. Forte/
+**I**. Dotted rhythms propel us forward. Rising contour in all parts. Forte
 
 <ins>*Bar 13:*</ins> 
 
@@ -338,7 +338,29 @@ Following straight from her recitative accompagnato, Fiordiligi dramatically pro
 
 **I**. Winds and trumpets withdrawn after first beat. Strings takes their place, playing quaver in piano. Melismatic line for Fiordiligi, with accented and unaccented passing notes. Octave leap in bass.
 
+<ins>*Bar 73:*</ins> 
 
+**V7**. See 20
+
+<ins>*Bar 73:*</ins> 
+
+**I**. See 21
+
+<ins>*Bar 74:*</ins> 
+
+**V/I in F Major**. Rhythmic movement is persisted after the cadence. Upper auxillaries in semiquavers a third apart between the first and second violins. Fiordiligi is unaccompanied on the last beat, which is dotted.
+
+<ins>*Bar 75:*</ins> 
+
+**IIb**. Contrary motion between first and second violins. Cescendo. Bb in first violins does not resolve properly. Accented and unaccented passing notes.
+
+<ins>*Bar 76:*</ins> 
+
+**V7**. Szforzando
+
+<ins>*Bar 77:*</ins> 
+
+**I**.
 
 
 
