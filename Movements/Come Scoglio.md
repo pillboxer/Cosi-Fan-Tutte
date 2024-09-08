@@ -342,25 +342,54 @@ Following straight from her recitative accompagnato, Fiordiligi dramatically pro
 
 **V7**. See 20
 
-<ins>*Bar 73:*</ins> 
+<ins>*Bar 74:*</ins> 
 
 **I**. See 21
 
-<ins>*Bar 74:*</ins> 
+<ins>*Bar 75:*</ins> 
 
 **V/I in F Major**. Rhythmic movement is persisted after the cadence. Upper auxillaries in semiquavers a third apart between the first and second violins. Fiordiligi is unaccompanied on the last beat, which is dotted.
 
-<ins>*Bar 75:*</ins> 
+<ins>*Bar 76:*</ins> 
 
 **IIb**. Contrary motion between first and second violins. Cescendo. Bb in first violins does not resolve properly. Accented and unaccented passing notes.
 
-<ins>*Bar 76:*</ins> 
+<ins>*Bar 77:*</ins> 
 
 **V7**. Szforzando
 
-<ins>*Bar 77:*</ins> 
+<ins>*Bar 78:*</ins> 
 
 **I**.
 
+<ins>*Bar 79:*</ins> 
 
+**I in Bb Major**. New section. Triple stops in violins. Forte. A on final beat is lower auxilalry.
 
+<ins>*Bar 80:*</ins> 
+
+**I**. Chromatic passing notes as well as accented passing on the third beat. Staccato wedges for added emphasis. Clarinets withdrawn
+
+<ins>*Bar 81:*</ins> 
+
+**V7b**. Clarinets reintroduced to fill out the harmony.
+
+<ins>*Bar 82:*</ins> 
+
+**V7b**. Strings and basses withdrawn. Fortepiano. Use of minims might suggest an imperative on the word "respect".
+
+<ins>*Bar 83:*</ins> 
+
+**I-V**. Rhythmic diminution propels the bar forward. All harmony notes.
+
+<ins>*Bar 84,85,86,87:*</ins> 
+
+See bars 79-82
+
+<ins>*Bar 88:*</ins> 
+
+**I-V**. Like bar 83 but second half of Fiordiligi's bar descends down completely.
+
+<ins>*Bar 89:*</ins> 
+
+**I-V**. See 79. First violins and violas reintroduced. Staccato triplets in first violins. Marked piano second half of the bar.
