@@ -392,4 +392,36 @@ See bars 79-82
 
 <ins>*Bar 89:*</ins> 
 
-**I-V**. See 79. First violins and violas reintroduced. Staccato triplets in first violins. Marked piano second half of the bar.
+**I-V7**. See 79. First violins and violas reintroduced. Staccato triplets in first violins. Marked piano second half of the bar.
+
+<ins>*Bar 90:*</ins> 
+
+**I-V7**. Triplets also appear in second violins, while the bassoons have been withdrawn. The violins are in contrary motion with each other
+
+<ins>*Bar 91:*</ins> 
+
+**I-V7**. The clarinets and oboes trade resolving chords over the next few bars on the fourth beat.
+
+<ins>*Bar 92,93,94:*</ins> 
+
+**I-V7**. See bar 90 and 91
+
+<ins>*Bar 95:*</ins> 
+
+**I**. Fiordiligi now presents a descending melismatic sequence, with only light accompaniment. Clarinets withdrawn.
+
+<ins>*Bar 96:*</ins> 
+
+**V7 in C Minor**. Bassoons reintroduced.
+
+<ins>*Bar 97:*</ins> 
+
+**II in Bb Major**. Crochet on first beat for Fiordiligi marks the end of the first sequence.
+
+<ins>*Bar 97:*</ins> 
+
+**V**. Clarinets reintroduced.
+
+<ins>*Bar 98:*</ins> 
+
+**I**. Slightly more active movement with quaver-rests in the violins. Third sequence starts a minor 7th below the last one and an octave below the first.
