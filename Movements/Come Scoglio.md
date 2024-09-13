@@ -418,10 +418,119 @@ See bars 79-82
 
 **II in Bb Major**. Crochet on first beat for Fiordiligi marks the end of the first sequence.
 
-<ins>*Bar 97:*</ins> 
+<ins>*Bar 98:*</ins> 
 
 **V**. Clarinets reintroduced.
 
-<ins>*Bar 98:*</ins> 
+<ins>*Bar 99:*</ins> 
 
 **I**. Slightly more active movement with quaver-rests in the violins. Third sequence starts a minor 7th below the last one and an octave below the first.
+
+<ins>*Bar 100:*</ins> 
+
+**I**. Accompaniment withdrawn except strings, playing punctuated quavers.
+
+<ins>*Bar 101:*</ins> 
+
+**I**. Accompaniment returns in a fuller texture. Fiordiligi's melismatic triplets are taken over by the violins. Forte.
+
+<ins>*Bar 102:*</ins> 
+
+**I**. Back to straight quavers. Fiordilgi has a descending line with accented and unaccented passing notes. Clarinets reintroduced, shadowing Fiordiligi.
+
+<ins>*Bar 103:*</ins> 
+
+**II7b**. Basses withdrawn, as are the winds apart from the clarinets. Fiordiligi's descending line continues, this time with just unaccented passing notes.
+
+<ins>*Bar 104:*</ins> 
+
+**V**. Chromatic passing notes imply VIIb in G Minor - replacement secondary dominant.
+
+<ins>*Bar 105:*</ins> 
+
+**VI**. Harmony in violins and unaccented passing notes and lower auxillary notes in clarinets and violas.
+
+<ins>*Bar 106:*</ins> 
+
+**I**. Much higher register for the first violins. Unacented and accented passing notes in clarinets, violas and for Fiordiligi.
+
+<ins>*Bar 107:*</ins> 
+
+**II7b**.
+
+<ins>*Bar 108:*</ins> 
+
+**V**. Chromatic lower auxillary notes at the perfect cadence.
+
+<ins>*Bar 109:*</ins> 
+
+**I**. Basses reintroduced for ascending triplet sequence.
+
+<ins>*Bar 110:*</ins> 
+
+**III-Ib**. The first beat omits a Bb, suggesting a III.
+
+<ins>*Bar 111:*</ins> 
+
+**II7b-V7**. The minor seventh descending leap can be viewed as a displaced appoggiatura. 
+
+<ins>*Bar 112,113,114:*</ins> 
+
+See 109,110,111
+
+<ins>*Bar 115:*</ins> 
+
+**I**. Tension starts to grow via an ascending sequence.
+
+<ins>*Bar 116:*</ins> 
+
+**I aug**. The F# increases tension dramatically as it heads to resolve to G.
+
+<ins>*Bar 117:*</ins> 
+
+**IV**.
+
+<ins>*Bar 118:*</ins> 
+
+**Diminished 7th in F Major**. Height of drama as Fiordiligi reaches her highest note of the movement.Double stops in the violins as well as an sforzando. Tutti
+
+<ins>*Bar 119:*</ins> 
+
+**Ic**. Easing of tension as basssoons and oboes are re-withdrawn and the dissonance is reduced.
+
+<ins>*Bar 120:*</ins> 
+
+**V**. Triplets reappear for Fiordilgi, briefly turning the dominant into a dominant seventh.
+
+<ins>*Bar 121:*</ins> 
+
+**I-V7**. Harmonic rhythm speeds up, with fortepianos on the changes of harmony. Winds withdrawn after the first beat.
+
+<ins>*Bar 122:*</ins> 
+
+**II7b-V**.
+
+<ins>*Bar 123:*</ins> 
+
+**I-VI**. Tutti. Semibreves in winds. Crescendo.
+
+<ins>*Bar 124:*</ins> 
+
+**II7B-V**. Forte reached at the perfect cadence.
+
+<ins>*Bar 125 & 126:*</ins> 
+
+**I**. Triplets return once taking us to the final perfect cadence. 
+
+<ins>*Bar 127:*</ins> 
+
+**I-V**. Triple stops in first violins, double stops in seconds. 
+
+<ins>*Bar 128:*</ins> 
+
+**I**. Triple stops in violins.
+
+
+
+
+
