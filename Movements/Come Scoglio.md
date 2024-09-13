@@ -4,7 +4,7 @@ Page 185
 
 *Tempo*: Andante Maestoso/Allegro\
 *Key*: Bb Major\
-*Meter*: 4/4
+*Time Signature*: 4/4
 
 *Aria*: Fiordiligi\
 *Winds*: Oboes, Clarinets in Bb, Bassoons\
