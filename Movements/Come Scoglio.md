@@ -492,7 +492,7 @@ See 109,110,111
 
 <ins>*Bar 118:*</ins> 
 
-**Diminished 7th in F Major**. Height of drama as Fiordiligi reaches her highest note of the movement.Double stops in the violins as well as an sforzando. Tutti
+**Diminished 7th in F Major**. Height of drama delivered by the diminshed 7th. Double stops in the violins as well as an sforzando. Tutti
 
 <ins>*Bar 119:*</ins> 
 
